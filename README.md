@@ -1,19 +1,7 @@
-# vuetstrap
+# Simple web to begin with this amazing Framework
 
-> vue with bootstrap
+![alt text](https://raw.githubusercontent.com/delalama/vueBegin/master/vue1.png)
 
-## Build Setup
+Available on :
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vueBegin
+http://178.62.92.173/EXTRA_CONTENT/aprendiendo/vue/
